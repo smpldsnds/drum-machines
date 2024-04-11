@@ -2,7 +2,5 @@
 *~
 *.swp
 *.flac
-.scripts/
 .DS_Store
-*.wav
 
